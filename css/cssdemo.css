@@ -1,0 +1,23 @@
+div{ border: solid 2px gray;
+
+}
+.box{
+    background-color: blue;
+    width:500px;
+    height:500px;
+    display:inline-block;
+    padding:50px;
+    margin:25px;
+}
+/* display;inline-block */
+p{
+    border:solid 1px gray;
+}
+span{
+    color:white;
+    background-color: black;
+    font-size: 1.5rem;
+}
+.background2{
+    background-color:red;
+}

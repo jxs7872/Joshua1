@@ -1,0 +1,42 @@
+.body{
+    font-family: "Montserrat", serif;
+  font-optical-sizing: auto;
+  font-weight: 200;
+  font-style: normal;
+}
+.wrapper{
+    background: rgb(2,0,36);
+background:url(../Images/swirl.svg);
+background-size: 40%;
+background-repeat: no-repeat;
+background-position: top right,corner;
+padding:5% 10%;
+}
+
+h1,h2,h3,h4,h5,h6{
+    font-family: "DM Serif Display", serif;
+    font-weight: 400;
+    font-style: normal;
+}
+a{
+    color:brown;
+}
+nav ul{
+    list-style: none;;
+
+}
+nav:hover{
+    color:white;
+}
+
+nav ul li:hover{
+    background-color: aqua;
+    display:inline-block;
+    padding:2rem;
+    border: solid;
+    width:120px;
+    text-align:center;
+}
+nav ul li a:hover{
+    color: white;
+}

@@ -1,0 +1,17 @@
+*
+{border:solid 2px gray;
+    
+padding:50px;
+margin:100px
+}
+
+body{
+    color: green;
+    text-align: center;
+}
+section{
+    color: blue;
+}
+p{
+    color: aqua;
+}
